@@ -4,3 +4,4 @@ Repo for documentation projects, tips and tricks, latest industry practices and 
 #List of Changes  
 1. Initial learning of GitHub are captured here.  
 2. Further technical documentation related discussions, blogs and other useful info will be shared gradually.
+3. Checks made on how to use GitHub for documentation.
